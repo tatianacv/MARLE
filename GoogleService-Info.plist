@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>30460276655-3i5c83m6t9ee0pu9rlm9tqug3o8er5me.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.30460276655-3i5c83m6t9ee0pu9rlm9tqug3o8er5me</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDlPXohMB4blWtCYrOzAedZv1rmPdY1tk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>30460276655</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>MARLEApp.EncuestaMarle</string>
+	<key>PROJECT_ID</key>
+	<string>marle-4b197</string>
+	<key>STORAGE_BUCKET</key>
+	<string>marle-4b197.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:30460276655:ios:155a2aea5530e55b</string>
+	<key>DATABASE_URL</key>
+	<string>https://marle-4b197.firebaseio.com</string>
+</dict>
+</plist>
